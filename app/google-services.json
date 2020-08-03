@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "121843019780",
+    "firebase_url": "https://sphinxapp-4b570.firebaseio.com",
+    "project_id": "sphinxapp-4b570",
+    "storage_bucket": "sphinxapp-4b570.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121843019780:android:e2558188128d22c8b74551",
+        "android_client_info": {
+          "package_name": "com.example.sphinxadmin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121843019780-kmi4sif02l5gbsaopl20fed769l6glco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvSkGXmyuzScDH6IJFaUr3WJmwqnIY7Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121843019780-kmi4sif02l5gbsaopl20fed769l6glco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:121843019780:android:798755235412687fb74551",
+        "android_client_info": {
+          "package_name": "com.example.sphinxapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "121843019780-kmi4sif02l5gbsaopl20fed769l6glco.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBvSkGXmyuzScDH6IJFaUr3WJmwqnIY7Qw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "121843019780-kmi4sif02l5gbsaopl20fed769l6glco.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

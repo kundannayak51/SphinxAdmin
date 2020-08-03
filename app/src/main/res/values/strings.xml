@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">SphinxAdmin</string>
+    <string name="sphinx">Sphinx</string>
+    <string name="admin">Admin</string>
+    <string name="emailhint">Email</string>
+    <string name="passwordhint">Password</string>
+    <string name="log_in">Log In</string>
+    <string name="tap_image">Tap above to select an image</string>
+    <string name="category_name">Category name</string>
+    <string name="add_btn">Add</string>
+    <string name="sets">Sets</string>
+    <string name="excel">Excel</string>
+    <string name="answer">Answer</string>
+    <string name="question">Question</string>
+</resources>
